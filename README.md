@@ -1,0 +1,3 @@
+# white_encode
+ Encode the ruby code with whitespace.  
+ 空白に敗北の二文字はない...
